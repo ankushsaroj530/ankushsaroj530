@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="GitHub_Profile_Circular_Under_800KB.png" width="100%" alt="Ankush Saroj - Embedded Systems & Firmware Developer">
-
 <br><br>
 
 # 👋 Hi, I'm Ankush Saroj
