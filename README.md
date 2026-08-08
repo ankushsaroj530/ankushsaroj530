@@ -1,75 +1,85 @@
-<!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<br><br>
-
-# 👋 Hi, I'm Ankush Saroj
+# ⚡ ANKUSH SAROJ
 
 ### Embedded Systems & Firmware Developer
 
 **Embedded C/C++ • STM32 • ESP32 • Python • IoT • RTOS • FPGA • Embedded Security**
 
-<p>
-Building practical <b>hardware-software systems, embedded firmware,
-IoT applications, secure firmware solutions, and connected devices.</b>
-</p>
-
 <br>
 
 <a href="https://github.com/ankushsaroj530">
-<img src="https://img.shields.io/badge/GitHub-ankushsaroj530-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-ankushsaroj530-050B2B?style=for-the-badge&logo=github&logoColor=00D9FF">
 </a>
 
 <a href="https://ankushsaroj.pages.dev/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-050B2B?style=for-the-badge&logo=googlechrome&logoColor=00D9FF">
 </a>
 
 <a href="https://www.linkedin.com/in/ankush-saroj-1b1a291b1/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-050B2B?style=for-the-badge&logo=linkedin&logoColor=00D9FF">
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B2B,50:111A4A,100:6C35FF&height=120&section=header&text=&fontSize=0">
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
+# 👨‍💻 About Me
 
-## 👨‍💻 About Me
+I'm an **Electronics & Communication Engineering student and Embedded
+Systems developer** focused on building practical and reliable
+**embedded firmware, IoT systems, hardware-software solutions,
+and secure connected devices.**
 
-I'm an **Electronics & Communication Engineer ** focused on
-**Embedded Systems, Firmware Development, IoT, Embedded Security,
-FPGA, and Hardware-Software Integration**.
+My primary interests include:
 
-I enjoy working close to the hardware and developing systems that connect
-**microcontrollers, firmware, communication protocols, networking,
-hardware, and software applications.**
+- 🔧 Embedded Firmware Development
+- ⚙️ STM32 & ESP32 Development
+- 💻 Embedded C/C++
+- 🌐 IoT & Connected Devices
+- ⚡ RTOS & FreeRTOS
+- 🔐 Embedded Security & Secure Firmware
+- 🐧 Embedded Linux
+- 🔬 FPGA & Digital Hardware
+- 📡 Embedded Communication Protocols
+- 🔩 Hardware-Software Integration
 
-### My Engineering Focus
+I enjoy working close to the hardware and turning ideas into complete
+working systems — from **circuit and microcontroller firmware to
+communication, networking, cloud services, and monitoring applications.**
+
+---
+
+# ⚡ My Engineering Focus
 
 ```text
-                    EMBEDDED SYSTEMS
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       FIRMWARE          HARDWARE        CONNECTIVITY
-          │                │                │
-       C / C++          STM32 / ESP32     UART
-       Embedded C       FPGA              SPI
-       Python           PCB               I²C
-       FreeRTOS         Sensors           CAN
-       Bootloader       KiCad             MQTT
-       OTA                                HTTP
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                           ▼
-                  CONNECTED SYSTEMS
-                           │
-                           ▼
-                    IoT • Security
-                 Embedded Linux • FPGA
+                         EMBEDDED SYSTEMS
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          │                     │                     │
+          ▼                     ▼                     ▼
+      FIRMWARE                HARDWARE           CONNECTIVITY
+          │                     │                     │
+     ┌────┼────┐          ┌─────┼─────┐        ┌──────┼──────┐
+     │    │    │          │     │     │        │      │      │
+    C/C++ Python RTOS    STM32 ESP32 FPGA     UART    SPI    I²C
+     │    │    │          │     │     │        │      │      │
+   Boot  Flask FreeRTOS  PCB Sensors KiCad    CAN    MQTT   HTTP
+   loader     │                         │
+     │        │                         │
+     └────────┴─────────────┬───────────┘
+                            │
+                            ▼
+                   CONNECTED SYSTEMS
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+             IoT         Security      Embedded Linux
+              │             │             │
+              └─────────────┼─────────────┘
+                            ▼
+                    REAL-WORLD SYSTEMS
