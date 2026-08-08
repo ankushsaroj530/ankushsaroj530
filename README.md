@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Ankush Saroj - Embedded Systems & Firmware Developer">
+<img src="GitHub_Profile_Circular_Under_800KB.png" width="100%" alt="Ankush Saroj - Embedded Systems & Firmware Developer">
 
 <br><br>
 
