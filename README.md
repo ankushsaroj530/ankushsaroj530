@@ -41,7 +41,7 @@ IoT applications, secure firmware solutions, and connected devices.</b>
 
 ## 👨‍💻 About Me
 
-I'm an **Electronics & Communication Engineering student** focused on
+I'm an **Electronics & Communication Engineer ** focused on
 **Embedded Systems, Firmware Development, IoT, Embedded Security,
 FPGA, and Hardware-Software Integration**.
 
