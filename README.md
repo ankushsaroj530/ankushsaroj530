@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ankush Saroj](https://svg-banners.vercel.app/api?type=typewriter&text=Ankush%20Saroj&width=800&height=200)
+![Ankush Saroj](https://svg-banners.vercel.app/api?type=typeWriter&text1=Ankush%20Saroj&width=800&height=200)
 
 ### Embedded Systems & Firmware Engineer
 
