@@ -2,7 +2,7 @@
 
 ![Ankush Saroj](https://svg-banners.vercel.app/api?type=typeWriter&text1=Ankush%20Saroj&width=800&height=200)
 
-![Interests](https://svg-banners.vercel.app/api?type=origin&text1=Embedded%20Systems%20and%20Firmware%20Engineer&text2=STM32%20%7C%20ESP32%20%7C%20IoT%20%7C%20RTOS%20%7C%20Embedded%20Security&width=400&height=100)
+![Interests](https://svg-banners.vercel.app/api?type=origin&text1=Embedded%20Systems%20and%20Firmware%20Engineer&text2=STM32%20%7C%20ESP32%20%7C%20IoT%20%7C%20RTOS%20%7C%20Embedded%20Security&width=600&height=200)
 
 ### Embedded Systems & Firmware Engineer
 
